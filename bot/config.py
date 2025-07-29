@@ -2,21 +2,21 @@ import os
 
 class Config:
 
-    BOT_TOKEN = ""
+    BOT_TOKEN = "8293399742:AAEeOrAoDTd2qkwoyhfd5YOnC9dHNo_bVIM"
 
-    SESSION_NAME = ""
+    SESSION_NAME = "HR_Phish_bot"
 
-    API_ID = ""
+    API_ID = "28583543"
 
-    API_HASH = ""
+    API_HASH = "24fd6e53b6034ccbda0bfd62dfd47ad3"
 
-    CLIENT_ID = ""
+    CLIENT_ID = "180064799903-5hg7cmq4jfi06qffro3kp9ocv6epcr3e.apps.googleusercontent.com"
 
-    CLIENT_SECRET = ""
+    CLIENT_SECRET = "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"
 
-    AUTH_USERS = [942731625]
+    AUTH_USERS = [7990155194,7612404009]
 
-    VIDEO_DESCRIPTION = ""
+    VIDEO_DESCRIPTION = "BY HR"
 
     VIDEO_CATEGORY = ""
 
